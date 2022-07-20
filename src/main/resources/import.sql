@@ -1,0 +1,6 @@
+insert into cliente (nombre,celular) values ('Marilesly Navarro','987654321')
+insert into usuario_cliente (usuario,password,rol,id_cliente) values ('marilesly','$2a$12$CmA9f2erJvOikU5c9PdUI.MpDSaDMHwE58f8W8kReRyZccSpZLBbG','USER',1)
+insert into cliente (nombre,celular) values ('Juan Perez','91234578')
+insert into usuario_cliente (usuario,password,rol,id_cliente) values ('juan','$2a$12$CmA9f2erJvOikU5c9PdUI.MpDSaDMHwE58f8W8kReRyZccSpZLBbG','USER',2)
+insert into cliente (nombre,celular) values ('Armando Casas','981234567')
+insert into usuario_cliente (usuario,password,rol,id_cliente) values ('armando','$2a$12$CmA9f2erJvOikU5c9PdUI.MpDSaDMHwE58f8W8kReRyZccSpZLBbG','USER',3)
